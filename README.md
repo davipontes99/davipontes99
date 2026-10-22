@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Davi Pontes 👋</h1>
-<h3 align="center">Desenvolvedor Full Stack • Fundador da DP Softwares</h3>
+<h3 align="center">Desenvolvedor Full Stack • Fundador da Pontes Softwares</h3>
 
 <p align="center">
-  <a href="https://dp-software.vercel.app"><img src="https://img.shields.io/badge/DP%20Softwares-Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://pontes-softwares.vercel.app"><img src="https://img.shields.io/badge/Pontes%20Softwares-Site-0150FB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://davipontes99.github.io/portfolio/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/davi-henrique-azevedo-pontes-30a564385"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/5514997267008"><img src="https://img.shields.io/badge/WhatsApp-Or%C3%A7amento-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -15,7 +15,7 @@
 - 📍 Bauru, SP - Brasil
 - 🎓 Estudante de Sistemas de Informação
 - 💼 Trabalho com implantação de ERP B2B
-- 🚀 Na **DP Softwares** crio sistemas sob medida para pequenas e médias empresas
+- 🚀 Na **Pontes Softwares** crio sistemas sob medida para pequenas e médias empresas
 - 📫 Aberto a projetos freelance: fale comigo pelo WhatsApp ou LinkedIn
 
 ## 🛠️ O que eu faço
@@ -49,7 +49,7 @@
 |---|---|---|
 | **CMV Dashboard** | Sistema de gestão para rede de franquias: custo de mercadoria, estoque e indicadores por unidade | PHP, JavaScript, MySQL |
 | **Portfólio** | Meu site pessoal com projetos e contato | HTML, CSS, JavaScript |
-| **DP Softwares** | Site institucional da minha empresa | JavaScript, Vercel |
+| **Pontes Softwares** | Site institucional da minha empresa | JavaScript, Vercel |
 
 > Alguns projetos são de clientes e ficam em repositórios privados. Fale comigo para ver demonstrações.
 
